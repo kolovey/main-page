@@ -347,7 +347,7 @@ body {
 .business-card {
   flex: 0 0 auto;
   width: 300px;
-  height: 394px;
+  height: 396px;
   padding: 20px 24px 24px;
   border: 1px solid #ffffff;
   border-radius: 24px;
@@ -447,6 +447,11 @@ body {
   font-weight: 500;
   line-height: 20px;
   color: #000000;
+}
+
+.business-card-button span {
+  position: relative;
+  top: 1px;
 }
 
 .business-card-button-icon {
